@@ -689,6 +689,10 @@ img {
   margin-bottom: 16px;
 }
 
+.form-group {
+  position: relative;
+  margin-bottom: 8px;
+}
 .form-label {
   font-weight: 400;
   font-size: 12px;
