@@ -684,11 +684,6 @@ img {
   margin-bottom: 16px;
 }
 
-.contact-form .form-group {
-  position: relative;
-  margin-bottom: 16px;
-}
-
 .form-group {
   position: relative;
   margin-bottom: 8px;
@@ -771,9 +766,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
 }
 
 .span-custom-icon {
